@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-08-20T11:32:10.116Z",
-  "total": 2,
+  "generated_at": "2026-08-23T11:10:04.487Z",
+  "total": 3,
   "delisted": 0,
-  "evidence_total": 3,
-  "distributable_usernames": 2,
+  "evidence_total": 4,
+  "distributable_usernames": 3,
   "by_category": {
     "info-product": 1,
     "ai-hype": 2,
-    "engagement-farming": 1
+    "engagement-farming": 2,
+    "plagiarism": 1
   },
   "by_severity": {
-    "medium": 2
+    "medium": 3
   }
 }
