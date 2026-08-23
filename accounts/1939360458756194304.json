@@ -1,0 +1,19 @@
+{
+  "$schema": "../schema/account.schema.json",
+  "id": "1939360458756194304",
+  "username": "sekaiwadai",
+  "display_name": "帝国ちゃん",
+  "categories": [
+    "engagement-farming",
+    "plagiarism"
+  ],
+  "severity": "medium",
+  "evidence": [
+    {
+      "url": "https://x.com/sekaiwadai/status/2090957748833800416"
+    }
+  ],
+  "status": "listed",
+  "added_at": "2026-08-23",
+  "updated_at": "2026-08-23"
+}
