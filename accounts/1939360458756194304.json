@@ -10,10 +10,12 @@
   "severity": "medium",
   "evidence": [
     {
-      "url": "https://x.com/sekaiwadai/status/2090957748833800416"
+      "url": "https://x.com/sekaiwadai/status/2090957748833800416",
+      "unavailable_since": "2026-10-02"
     }
   ],
-  "status": "listed",
+  "status": "suspended",
   "added_at": "2026-08-23",
-  "updated_at": "2026-08-23"
+  "updated_at": "2026-10-02",
+  "last_checked_at": "2026-10-02"
 }
